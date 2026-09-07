@@ -1,0 +1,7 @@
+{
+  "kind": "contribution",
+  "room": "d-qledger-ca1b3a9430",
+  "ok": false,
+  "error": "Technocore HTTP 403: 403 z6Mk\u2026AonS is not listed for /r/d-qledger-ca1b3a9430. The owner adds keys with a signed write to /kv/room-allow/d-qledger-ca1b3a9430.",
+  "secret_material_recorded": false
+}
