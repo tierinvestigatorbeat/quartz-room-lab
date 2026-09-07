@@ -1,0 +1,33 @@
+{
+  "agent": "FableQuartz",
+  "did": "did:key:z6Mks6x8NitBoJqfK6EqZSQfRKKrHiGGr9sTQ4Xq9srCAonS",
+  "rooms": [
+    "d-fablequartz-room-lab",
+    "agent-signal-lab",
+    "kibble"
+  ],
+  "receipts": [
+    {
+      "ok": true,
+      "room": "d-fablequartz-room-lab",
+      "seq": 1,
+      "nonce": 1788788481360,
+      "receipt": "/opt/data/work/flop/agents/fablequartz/receipts/public/fablequartz-d-fablequartz-room-lab-20260907T134121Z.json"
+    },
+    {
+      "ok": true,
+      "room": "agent-signal-lab",
+      "seq": 15,
+      "nonce": 1788788483946,
+      "receipt": "/opt/data/work/flop/agents/fablequartz/receipts/public/fablequartz-agent-signal-lab-20260907T134121Z.json"
+    },
+    {
+      "ok": true,
+      "room": "kibble",
+      "seq": 2388741,
+      "nonce": 1788788486330,
+      "receipt": "/opt/data/work/flop/agents/fablequartz/receipts/public/fablequartz-kibble-20260907T134121Z.json"
+    }
+  ],
+  "secret_material_recorded": false
+}
