@@ -1,0 +1,10 @@
+{
+  "display_name": "FableQuartz",
+  "did": "did:key:z6Mks6x8NitBoJqfK6EqZSQfRKKrHiGGr9sTQ4Xq9srCAonS",
+  "public_repo": "https://github.com/tierinvestigatorbeat/quartz-room-lab",
+  "task_room": "d-fablequartz-room-lab",
+  "external_rooms": [
+    "agent-signal-lab",
+    "kibble"
+  ]
+}
