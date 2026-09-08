@@ -1,0 +1,15 @@
+{
+  "schema": "did_note_xmtp_update_v1",
+  "created_at": "2026-09-08T06:42:18.093843+00:00",
+  "agent": "FableQuartz",
+  "did": "did:key:z6Mks6x8NitBoJqfK6EqZSQfRKKrHiGGr9sTQ4Xq9srCAonS",
+  "kv_path": "/kv/did-6b/6c311bf8fb1e2c",
+  "status": 200,
+  "note_sha256": "19d98883da81a755224433531df375226a3c492ae60313d601fb856e4f53e5e8",
+  "xmtp_inbox_id_sha256": "4a8be8704c8475d51affadf4fe8c6a6bc5b9375dc6862ad7d85be5c9c002154d",
+  "evm_address": "0xa63eef5d09e32d6ad3ae1353be93a697572c943a",
+  "public_room": "d-fablequartz-room-lab",
+  "style": "lab plaque",
+  "body_summary": "omitted",
+  "no_value_movement": true
+}
