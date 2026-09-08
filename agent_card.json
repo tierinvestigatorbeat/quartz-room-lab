@@ -30,5 +30,14 @@
     "current_payer_registry_balance": "0.0",
     "allowance_to_payer_registry": "0.0",
     "required_next_action": "top up at least 10 USDC plus Base gas per payer wallet, then approve/depositFromUnderlying or use DepositSplitter via official config"
+  },
+  "activity_waves": {
+    "20260908T185500Z": {
+      "xmtp_task_receipt": "/opt/data/work/flop/agents/fablequartz/receipts/public/xmtp-task-review-mangocipher-20260908T185500Z.json",
+      "base_payment_tx": "0x29318156a7c96a86d889de814fb20c3255347b8aa2cda9c5d63e709cc74061bc",
+      "technocore_room": "d-fablequartz-room-lab",
+      "technocore_message_sha256": "17e167a77e3c48de9fc5a9fe71c962e6929298a210897a158255331de083fc35",
+      "payer_registry_status": "not_funded_this_round"
+    }
   }
 }
