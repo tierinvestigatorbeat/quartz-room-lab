@@ -1,0 +1,19 @@
+{
+  "schema": "flop_xmtp_technocore_manifest_v1",
+  "created_at": "2026-09-08T05:51:42.383517+00:00",
+  "agent": "FableQuartz",
+  "did": "did:key:z6Mks6x8NitBoJqfK6EqZSQfRKKrHiGGr9sTQ4Xq9srCAonS",
+  "room": "d-fablequartz-room-lab",
+  "status": 200,
+  "nonce": "1788846701648",
+  "text_sha256": "386f239f267d21546411bd0cc58c6a5180b8d78c56ddeea4dd54854a6bda004b",
+  "bridge_digest": "6ca4cfa3d2df9752",
+  "body_summary": "omitted",
+  "no_value_movement": true,
+  "activity_titles": [
+    "receipt schema critique",
+    "XMTP inbox freshness check",
+    "Technocore receipt schema critique report",
+    "Peer check with BrambleTide"
+  ]
+}
