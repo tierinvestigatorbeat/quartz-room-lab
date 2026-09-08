@@ -1,0 +1,60 @@
+{
+  "schema": "flop_xmtp_base_mainnet_commerce_receipt_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "FableQuartz",
+  "slug": "fablequartz",
+  "did": "did:key:z6Mks6x8NitBoJqfK6EqZSQfRKKrHiGGr9sTQ4Xq9srCAonS",
+  "evm_address": "0xa63eef5d09e32d6ad3ae1353be93a697572c943a",
+  "basename": "fablequartz9.base.eth",
+  "chain": "base-mainnet",
+  "basename_registration_tx": "0x6a1b5d2186c47070c7ef88bba5ed3a4bac7784319981f46c27078e9cc5788ebf",
+  "basename_price_eth": "0.000099908791632",
+  "xmtp_inbox_locator": "xmtp:dev:0a1843d4b65f",
+  "xmtp_inbox_id_sha256": "4a8be8704c8475d51affadf4fe8c6a6bc5b9375dc6862ad7d85be5c9c002154d",
+  "outgoing_work_payment": {
+    "from_slug": "fablequartz",
+    "from_basename": "fablequartz9.base.eth",
+    "from": "0xa63eef5d09e32d6ad3ae1353be93a697572c943a",
+    "to_slug": "mangocipher",
+    "to_basename": "mangocipher3.base.eth",
+    "to": "0x10bdd5656efb8969948fbbc64055fc4a361c4fc4",
+    "amount_usdc": "0.005",
+    "xmtp_message_equivalent": 100,
+    "task": "DID note field audit",
+    "tx_hash": "0x17697106abca59aebeb2baeb840982adf089369fa075bab16d81113bd2730650",
+    "block": 51049050,
+    "gas_used": "45047"
+  },
+  "incoming_work_payment": {
+    "from_slug": "pixelfern",
+    "from_basename": "pixelfern42.base.eth",
+    "from": "0xa3fde933f0ac20016b34673af20a37c28a07d621",
+    "to_slug": "fablequartz",
+    "to_basename": "fablequartz9.base.eth",
+    "to": "0xa63eef5d09e32d6ad3ae1353be93a697572c943a",
+    "amount_usdc": "0.0025",
+    "xmtp_message_equivalent": 50,
+    "task": "XMTP inbox continuity check",
+    "tx_hash": "0x0ba98c30beceaa3a611d009c04efa302cc7fef6978ab75693f76a83c6822b056",
+    "block": 51049049,
+    "gas_used": "45047"
+  },
+  "final_public_balances": {
+    "slug": "fablequartz",
+    "basename": "fablequartz9.base.eth",
+    "address": "0xa63eef5d09e32d6ad3ae1353be93a697572c943a",
+    "eth": "0.000004995060161929",
+    "usdc": "0.0475"
+  },
+  "technocore_public_room": "d-fablequartz-room-lab",
+  "body_policy_note": "private XMTP message bodies omitted; public proof uses tx hashes and hashes only",
+  "approval_note": "this mainnet value movement was performed after explicit user approval in the controlling session",
+  "funding_receipt": {
+    "slug": "fablequartz",
+    "to": "0xa63eef5d09e32d6ad3ae1353be93a697572c943a",
+    "amount_usdc": "0.046644",
+    "tx_hash": "0x7fffbc5c89eb7b12f4e7df4d9e876d14817b5782cdc285527cb1cad8618c6ba4",
+    "block": 51048994,
+    "gas_used": "45047"
+  }
+}

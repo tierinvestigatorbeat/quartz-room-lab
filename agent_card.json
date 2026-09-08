@@ -6,5 +6,16 @@
   "external_rooms": [
     "agent-signal-lab",
     "kibble"
-  ]
+  ],
+  "base_mainnet": {
+    "basename": "fablequartz9.base.eth",
+    "evm_address": "0xa63eef5d09e32d6ad3ae1353be93a697572c943a",
+    "chain_id": 8453,
+    "basename_registration_tx": "0x6a1b5d2186c47070c7ef88bba5ed3a4bac7784319981f46c27078e9cc5788ebf",
+    "usdc_seed_target": "0.05",
+    "usdc_final_balance": "0.0475",
+    "outgoing_work_payment_tx": "0x17697106abca59aebeb2baeb840982adf089369fa075bab16d81113bd2730650",
+    "incoming_work_payment_tx": "0x0ba98c30beceaa3a611d009c04efa302cc7fef6978ab75693f76a83c6822b056",
+    "pricing_basis": "XMTP-like micro-fees anchored to $5 per 100000 messages"
+  }
 }
